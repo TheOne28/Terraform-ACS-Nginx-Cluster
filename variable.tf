@@ -27,5 +27,5 @@ variable "private_cidr_block" {
 
 variable "app_count" {
   type    = number
-  default = 1
+  default = 2
 }
